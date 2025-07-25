@@ -1,0 +1,4 @@
+This ia a modified schematic created by Tilman SM0JZT to eliminate the ESP32 development board for the 12v to 5v power supply.  It saves space and also adds an isolation keying relay and .5 amp fuse to protect the XPA125b 12v output.  Thank you Tilman.
+
+Jim
+W8JD
